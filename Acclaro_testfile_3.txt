@@ -1,0 +1,5 @@
+A merchant you are the account manager for has surpassed Stripe Billing’s free usage threshold. \\
+  Please update the merchant’s billing fee plan and rate card by following our runbook [0]. \\
+  If your user has a sensitive situation or explicitly not billed for Billing, you should reply to this email with exactly the circumstances. \\
+  If you have any questions, you can reply to this email or reach out in #billing-monetization. \\
+  You will continue to receive this email until this has been resolved. 
